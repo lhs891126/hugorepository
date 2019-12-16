@@ -1,8 +1,8 @@
 ---
 layout:     post 
-title:      "Welcome to Zhaohuabing Blog"
+title:      "위대한 Kafka"
 subtitle:   "Hello World, Hello Blog"
-date:       2017-11-04
+date:       2019-11-04
 author:     "hosuk"
 URL: "/2017/11/03/hello-world/"
 image:      "https://img.zhaohuabing.com/post-bg-2015.jpg"
